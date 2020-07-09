@@ -1,0 +1,114 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "847436",
+      "name": "仓库",
+      "font_class": "cangku",
+      "unicode": "e6ea",
+      "unicode_decimal": 59114
+    },
+    {
+      "icon_id": "1472252",
+      "name": "左翻页",
+      "font_class": "zuofanye-xue",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "2570080",
+      "name": "仓库",
+      "font_class": "cangku1",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "2680321",
+      "name": "位置",
+      "font_class": "weizhi",
+      "unicode": "e6f8",
+      "unicode_decimal": 59128
+    },
+    {
+      "icon_id": "3826194",
+      "name": "放大镜",
+      "font_class": "xiaoyuan-",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "3826836",
+      "name": "电子邮件",
+      "font_class": "dianziyoujian",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "4933443",
+      "name": "右翻页",
+      "font_class": "youfanye",
+      "unicode": "e76a",
+      "unicode_decimal": 59242
+    },
+    {
+      "icon_id": "5140539",
+      "name": "仓库",
+      "font_class": "cangku2",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "5708857",
+      "name": "仓库",
+      "font_class": "cangku3",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
+      "icon_id": "9007289",
+      "name": "联系电话",
+      "font_class": "lianxidianhua",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    },
+    {
+      "icon_id": "9783459",
+      "name": "仓库",
+      "font_class": "cangku4",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "11746730",
+      "name": "放大镜",
+      "font_class": "fangdajing",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "13000504",
+      "name": "放大镜",
+      "font_class": "fangdajing1",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "13168400",
+      "name": "仓库",
+      "font_class": "cangku5",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "15223945",
+      "name": "弹框",
+      "font_class": "dankuang",
+      "unicode": "e522",
+      "unicode_decimal": 58658
+    }
+  ]
+}
